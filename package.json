@@ -1,9 +1,10 @@
 {
-  "name": "corsoAngular02",
-  "version": "0.0.0",
+  "name": "corso-angular-02",
+  "version": "0.0.1",
   "dependencies": {},
   "scripts": {
-    "test": "gulp test"
+    "test": "gulp test",
+    "start": "gulp serve"
   },
   "devDependencies": {
     "browser-sync": "~2.9.11",
