@@ -6,6 +6,8 @@ Applicazione "didattica" che svolge i seguenti compiti:
 * utilizzo direttive
 * ordinamento risultati con orderBy
 
+L'applicazione è parte integrante del corso ["Sviluppo di applicazioni web client: AngularJs"](https://github.com/vincenzomilone/corso-angular-js)
+
 ## Installazione
 
 Installare le dipendenze
